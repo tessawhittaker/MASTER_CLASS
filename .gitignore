@@ -1,5 +1,11 @@
 *00_run_pipeline*
 *.gz*
+*.js
+*.css
+*.bam
+*.bai
+*star_salmon
+*.bigWig
 *.summary
 *.json
 *.sf
